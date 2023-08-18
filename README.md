@@ -5,14 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijaytheegala" alt="vijaytheegala" /></a> </p>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSA-Java**
 
 - 📫 How to reach me **theegalavijay18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/vijay_theegala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vijay_theegala" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vijay-kumar-theegala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijay-kumar-theegala" height="30" width="40" /></a>
+<a href="https://dev.to/g.dev/vijay_theegala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="g.dev/vijay_theegala" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vijay-kumar-theegala-69b7bb190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijay-kumar-theegala-69b7bb190" height="30" width="40" /></a>
 <a href="https://instagram.com/mr.vijay_kumar__7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.vijay_kumar__7" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/theegalavijay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="theegalavijay" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/theegalavijay18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="theegalavijay18" height="30" width="40" /></a>
