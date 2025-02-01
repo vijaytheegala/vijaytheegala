@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijaytheegala" alt="vijaytheegala" /></a> </p>
 
-- 🌱 I’m currently working at **Amazon**
-
-- 📫 How to reach me **theegalavijay18@gmail.com**
+- 🌱 I’m currently working at **Amazon**  
+- 👕 I own a clothing brand: [Checzwear](https://checzwear.in) 
+- 📫 How to reach me **theegalavijay18@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
