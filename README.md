@@ -56,7 +56,7 @@
 - **Containerization and Orchestration**: 
   - 🐳 **Docker**, 🔄 **Kubernetes**
     </ul>
-    These skills are highly sought after by recruiters in the fields of data science, machine learning, AI, and data engineering.
+
 </p>
 
 </p>
